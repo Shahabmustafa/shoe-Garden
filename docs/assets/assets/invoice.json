@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "barcode": "123456789012",
+      "product": "Boys Shoes",
+      "color": "Blue",
+      "size": "Size 1",
+      "salePrice": 1500,
+      "totalQuantity": 300,
+      "quantity": 1,
+      "discount": "5%"
+    },
+    {
+      "barcode": "987654321098",
+      "product": "Product 2",
+      "color": "Color 2",
+      "size": "Size 2",
+      "salePrice": 2000,
+      "totalQuantity": 150,
+      "quantity": 2,
+      "discount": "10%"
+    },
+    {
+      "barcode": "987654321098",
+      "product": "Product 3",
+      "color": "Color 3",
+      "size": "Size 3",
+      "salePrice": 2500,
+      "totalQuantity": 120,
+      "quantity": 6,
+      "discount": "15%"
+    }
+  ]
+}
